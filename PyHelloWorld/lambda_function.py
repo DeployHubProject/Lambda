@@ -1,6 +1,6 @@
 import json
 
-print('Loading function')
+print('Loading function V3')
 
 
 def lambda_handler(event, context):
